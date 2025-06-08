@@ -20,9 +20,9 @@ export default {
     },
   },
   source: {
-    cognatesFF: '/public/cognates-ff.json',
-    cognates1000: '/public/cognates-1000.json',
-    similarities: '/public/similarities.json',
-    memo: '/public/memo.json',
+    cognatesFF: '/cognates-ff.json',
+    cognates1000: '/cognates-1000.json',
+    similarities: '/similarities.json',
+    memo: '/memo.json',
   },
 };

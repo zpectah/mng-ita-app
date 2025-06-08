@@ -1,6 +1,10 @@
+import MemoTabs from './MemoTabs';
+
 const Memo = () => {
   return (
-    <>...Memo...</>
+    <>
+      <MemoTabs />
+    </>
   );
 };
 

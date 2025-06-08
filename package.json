@@ -13,6 +13,7 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@fontsource/open-sans": "^5.2.5",
+    "@hookform/resolvers": "^5.1.0",
     "@mui/icons-material": "^7.1.1",
     "@mui/material": "^7.1.1",
     "@tanstack/react-query": "^5.80.6",
@@ -21,6 +22,7 @@
     "react-dom": "^19.1.0",
     "react-hook-form": "^7.57.0",
     "react-router-dom": "^7.6.2",
+    "zod": "^3.25.56",
     "zustand": "^5.0.5"
   },
   "devDependencies": {

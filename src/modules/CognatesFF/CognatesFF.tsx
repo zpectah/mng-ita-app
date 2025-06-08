@@ -1,6 +1,10 @@
+import CognatesFFTabs from './CognatesFFTabs';
+
 const CognatesFF = () => {
   return (
-    <>...CognatesFF...</>
+    <>
+      <CognatesFFTabs />
+    </>
   );
 };
 

@@ -1,6 +1,10 @@
+import SimilaritiesTabs from './SimilaritiesTabs';
+
 const Similarities = () => {
   return (
-    <>...Similarities...</>
+    <>
+      <SimilaritiesTabs />
+    </>
   );
 };
 
