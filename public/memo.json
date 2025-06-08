@@ -1,0 +1,87 @@
+{
+  "version": "0.0.1",
+  "tabs": [
+    {
+      "id": "memo1",
+      "name": "Memo 1",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "memo2",
+      "name": "Memo 2",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "memo3",
+      "name": "Memo 3",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "memo4",
+      "name": "Memo 4",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
+
+

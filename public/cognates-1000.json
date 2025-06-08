@@ -1,0 +1,167 @@
+{
+  "version": "0.0.1",
+  "tabs": [
+    {
+      "id": "cognates-1000-1",
+      "name": "Cognates 1000 1",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-2",
+      "name": "Cognates 1000 2",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-3",
+      "name": "Cognates 1000 3",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-4",
+      "name": "Cognates 1000 4",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-5",
+      "name": "Cognates 1000 5",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-6",
+      "name": "Cognates 1000 6",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-7",
+      "name": "Cognates 1000 7",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-1000-8",
+      "name": "Cognates 1000 8",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
+
+

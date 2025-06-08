@@ -1,0 +1,96 @@
+{
+  "version": "0.0.1",
+  "tabs": [
+    {
+      "id": "sim1",
+      "name": "Similarity 1",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "sim2",
+      "name": "Similarity 2",
+      "description": "...",
+      "rows": [
+        {
+          "ita": {
+            "main": "Avvocato",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Advocate",
+            "pron": ""
+          },
+          "extension": ["o-e"],
+          "description": ""
+        },
+        {
+          "ita": {
+            "main": "Breve",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Brief",
+            "pron": ""
+          },
+          "extension": [],
+          "description": "*( Short ) Used for time"
+        }
+      ]
+    },
+    {
+      "id": "sim3",
+      "name": "Similarity 3",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "sim4",
+      "name": "Similarity 4",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

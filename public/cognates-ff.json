@@ -1,0 +1,46 @@
+{
+  "version": "0.0.1",
+  "tabs": [
+    {
+      "id": "cognates-ff-1",
+      "name": "Cognates FF 1",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "cognates-ff-2",
+      "name": "Cognates FF 2",
+      "description": "...",
+      "rows": [
+        {
+          "name": "balcony",
+          "ita": {
+            "main": "Balcone",
+            "pron": ""
+          },
+          "eng": {
+            "main": "Balcony",
+            "pron": ""
+          },
+          "extension": ["e-y"],
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
+
